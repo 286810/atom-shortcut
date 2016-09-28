@@ -1,3 +1,9 @@
+# 系统
+- `F3` 下一个
+- `shift-F3` 上一个
+- `ctrl-alt-cmd-f` 缩排选中
+- `alt-cmd` 展开缩排
+- `ctrl-shift-k` 删除整行
 
 # 文件操作
 - `ctrl-shift-s` 保存所有打开的文件
@@ -31,4 +37,3 @@
 - `d` 将当前文件另存为(duplicate)
 - `i` 显示(隐藏)版本控制忽略的文件
 - `ctrl-shift-c` 复制当前文件绝对路径
-- 
