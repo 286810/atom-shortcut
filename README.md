@@ -69,6 +69,12 @@
 - `ctrl-cmd-m` 括号(tag)之间文本选取
 - `alt-cmd-.` 关闭当前XML/HTML tag
 
+# 自动补全
+- `ctrl-space` 提示补全信息
+
+# 文件语法高亮
+- `ctrl-shift-l` 选择文本类型
+
 # 系统
 - `F3` 下一个
 - `shift-F3` 上一个
